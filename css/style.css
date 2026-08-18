@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 48px;
+}
+
+h1{
+    color:hotpink;
+    font-size: 48px;
+
+}
+
+h2{
+    color:lightskyblue;
+    font-size: 20px;
+    padding: top 50px;
+}
+
+p{
+    color:white;
+    font-size: 18px;
+    padding-left: 30px;
+}
